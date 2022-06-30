@@ -6,7 +6,7 @@ Two test websites with navigation panels.
 
 [Live demo](https://effulgent-salmiakki-a80403.netlify.app/)
 
-![first-website-page](second-website-page.jpeg)
+![first-website-page](first-website-page.jpeg)
 
 - second
 
